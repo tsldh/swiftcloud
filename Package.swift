@@ -15,7 +15,7 @@ let package = Package(
         .target(
             name: "swiftcloud",
             dependencies: []),
-	.testTarget(
+	      .testTarget(
             name: "swiftcloud-tests",
             dependencies: []
         )
